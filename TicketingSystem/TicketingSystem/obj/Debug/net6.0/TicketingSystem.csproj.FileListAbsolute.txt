@@ -1,0 +1,15 @@
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\net6.0\TicketingSystem.exe
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\net6.0\TicketingSystem.deps.json
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\net6.0\TicketingSystem.runtimeconfig.json
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\net6.0\TicketingSystem.dll
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\net6.0\ref\TicketingSystem.dll
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\net6.0\TicketingSystem.pdb
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.dll
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\ref\TicketingSystem.dll
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.pdb
+C:\Users\Tyler\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\net6.0\TicketingSystem.genruntimeconfig.cache
